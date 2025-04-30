@@ -1,5 +1,5 @@
 what-beats-rock-solver/
-├── Dockerfile
+├── Docker_file
 ├── docker-compose.yml
 ├── requirements.txt
 ├── README.md
